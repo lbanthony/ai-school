@@ -28,4 +28,7 @@ Save the file with `Cmd + S`.
 
 Click the **Source Control** icon in the left sidebar (it looks like a branching line — you should see a badge with a number on it showing you have changes). You'll see `README.md` listed under "Changes." Click the **+** next to it to stage it, type this in the message box at the top:
 ```
-Initial vision doc
+#agents/ — system prompts for each of your 7 agents
+#prompts/ — reusable prompt templates and patterns
+#configs/ — settings, parameters, and model configs
+#docs/ — documentation, architecture notes, lessons learned
